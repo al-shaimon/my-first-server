@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/al-shaimon/my-first-server/issues"
   },
-  "homepage": "https://github.com/al-shaimon/my-first-server#readme"
+  "homepage": "https://github.com/al-shaimon/my-first-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
